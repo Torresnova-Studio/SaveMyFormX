@@ -2,7 +2,7 @@
 
 **SaveMyFormX** is a lightweight Chrome extension that automatically saves your form inputs, preventing data loss due to accidental reloads, crashes, or logouts.
 
-![banner](./assets/banner-promotional-1400x560px.png)
+![banner](./assets/banner-promocional-1400x560px.png)
 
 ---
 
