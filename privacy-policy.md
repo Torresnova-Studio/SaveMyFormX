@@ -1,5 +1,5 @@
 # Privacy Policy for SaveMyFormX
-_Last updated: [April 14, 2025]_
+_Last updated: [April 16, 2025]_
 
 SaveMyFormX is a Chrome Extension that automatically stores your form input data locally on your device to prevent data loss.
 
