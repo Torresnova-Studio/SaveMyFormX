@@ -12,9 +12,7 @@ The data is stored **only locally on your device** using Chrome's local storage 
 ## **Why do we request these permissions?**
 SaveMyFormX requires the following permissions to function:
 
-- **`activeTab`**: This permission allows the extension to interact with the current tab when the user explicitly activates the extension (e.g., when clicking the extension icon). It enables the extension to gather form data from the page you are currently viewing.
-- **`storage`**: This permission allows the extension to save and retrieve form data locally in the browser's storage. Your data is stored in your device's local storage and is not accessible by any external entities.
-- **`scripting`**: This permission is necessary for injecting the content script (`content.js`) into the active tab to capture and restore form data.
+- **`storage`**: This permission allows the extension to save and retrieve form data locally in the browser's storage. Your data is stored in your device's local 
 
 These permissions are essential for the functionality of the extension, but they do **not** allow us to collect any personal or sensitive data beyond the form data you actively input into the forms.
 
